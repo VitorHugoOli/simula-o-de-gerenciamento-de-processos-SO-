@@ -1,0 +1,3 @@
+/home/vitor/Dropbox/facu/5 SEMESTRE/Sist. Operacional/TP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vitor/Dropbox/facu/5 SEMESTRE/Sist. Operacional/TP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vitor/Dropbox/facu/5 SEMESTRE/Sist. Operacional/TP2/cmake-build-debug/CMakeFiles/TP2.dir
